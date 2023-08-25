@@ -1,6 +1,6 @@
 #Example A1: Syntax
 #Python Crash Course
-#dzulaiman@nm.gov.my
+#dzul.aiman@gmail.com
 #2015/12/08
 
 print "Outer level"
