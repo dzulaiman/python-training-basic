@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #Example A2: Arithmetic
 #Python Crash Course
-#dzulaiman@nm.gov.my
+#dzul.aiman@gmail.com
 #2015/12/08
 
 a = 21
