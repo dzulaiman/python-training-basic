@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #Example B2: Dictionary
 #Python Crash Course
-#dzulaiman@nm.gov.my
+#dzul.aiman@gmail.com
 #2015/12/08
 
 dict = {'Name': 'Zara', 'Age': 7, 'Class': 'First'};
