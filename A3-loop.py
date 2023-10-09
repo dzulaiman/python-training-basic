@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #Example A3: Loop
 #Python Crash Course
-#dzulaiman@nm.gov.my
+#dzul.aiman@gmail.com
 #2015/12/08
 
 def nested_loop():
