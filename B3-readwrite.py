@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #Example B3: Read/Write
 #Python Crash Course
-#dzulaiman@nm.gov.my
+#dzul.aiman@gmail.com
 #2015/12/08
 
 def read(filename):
